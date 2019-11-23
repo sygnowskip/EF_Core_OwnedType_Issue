@@ -1,1 +1,1 @@
-# EF_Core_OwnedType_Issue
+Example project with a bug related to EF Core 3.0 and nullabled Owned types.

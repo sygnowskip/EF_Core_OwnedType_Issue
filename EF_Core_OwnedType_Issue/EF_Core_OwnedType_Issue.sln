@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Core_OwnedType_Issue", "EF_Core_OwnedType_Issue.csproj", "{7D9BABCE-F3AD-4249-BDC9-81EBA710F84F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "..\Persistence\Persistence.csproj", "{EB3DA8B0-B0A9-456D-89AF-27AD1A85F9AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D9BABCE-F3AD-4249-BDC9-81EBA710F84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9BABCE-F3AD-4249-BDC9-81EBA710F84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9BABCE-F3AD-4249-BDC9-81EBA710F84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9BABCE-F3AD-4249-BDC9-81EBA710F84F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB3DA8B0-B0A9-456D-89AF-27AD1A85F9AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3DA8B0-B0A9-456D-89AF-27AD1A85F9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3DA8B0-B0A9-456D-89AF-27AD1A85F9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3DA8B0-B0A9-456D-89AF-27AD1A85F9AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0022D795-E48F-4C65-B7E0-6757F9EE7722}
+	EndGlobalSection
+EndGlobal
